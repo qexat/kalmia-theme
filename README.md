@@ -10,4 +10,12 @@ It contains:
 A CSS file is also provided, containing the colors of the normal version.
 Feel free to use it on your projects, don't forget to include the license!
 
+## Normal
+
+![normal.png](./images/normal.png)
+
+## High Contrast
+
+![high-contrast.png](./images/high-contrast.png)
+
 **Enjoy!**
