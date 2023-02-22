@@ -1,16 +1,13 @@
-# kalmia README
+# Kalmia theme
 
-## Working with Markdown
+This is a theme bundle for Visual Studio Code.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+It contains:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+-   a dimmed dark theme (normal)
+-   a high contrast dark theme
 
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+A CSS file is also provided, containing the colors of the normal version.
+Feel free to use it on your projects, don't forget to include the license!
 
 **Enjoy!**
