@@ -1,29 +1,30 @@
 {
-	"name": "kalmia",
-	"displayName": "kalmia",
-	"description": "Kalmia is a pastel pink theme.",
-	"version": "0.1.0",
-	"engines": {
-		"vscode": "^1.75.0"
-	},
-	"repository": {
-		"url": "https://github.com/qexat/kalmia"
-	},
-	"categories": [
-		"Themes"
-	],
-	"contributes": {
-		"themes": [
-			{
-				"label": "Kalmia",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Kalmia-color-theme.json"
-			},
-			{
-				"label": "Kalmia High Contrast",
-				"uiTheme": "hc-black",
-				"path": "./themes/kalmia-high-contrast-color-theme.json"
-			}
-		]
-	}
+  "name": "kalmia",
+  "displayName": "kalmia",
+  "description": "Kalmia is a pastel pink theme.",
+  "version": "0.1.0",
+  "publisher": "qexat",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "repository": {
+    "url": "https://github.com/qexat/kalmia"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Kalmia",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Kalmia-color-theme.json"
+      },
+      {
+        "label": "Kalmia High Contrast",
+        "uiTheme": "hc-black",
+        "path": "./themes/kalmia-high-contrast-color-theme.json"
+      }
+    ]
+  }
 }
