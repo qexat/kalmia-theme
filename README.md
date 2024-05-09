@@ -12,10 +12,10 @@ Feel free to use it on your projects, don't forget to include the license!
 
 ## Normal
 
-![normal.png](./images/normal.png)
+![normal.png](https://raw.githubusercontent.com/qexat/kalmia-theme/main/images/normal.png)
 
 ## High Contrast
 
-![high-contrast.png](./images/high-contrast.png)
+![high-contrast.png](https://raw.githubusercontent.com/qexat/kalmia-theme/main/images/high-contrast.png)
 
 **Enjoy!**

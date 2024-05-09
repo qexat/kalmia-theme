@@ -1,9 +1,10 @@
 {
   "name": "kalmia",
-  "displayName": "kalmia",
+  "displayName": "Kalmia",
   "description": "Kalmia is a pastel pink theme.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "qexat",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.75.0"
   },
